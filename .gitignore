@@ -1,0 +1,78 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+[bootstrap] 
+*.pyc
+
+[build]
+ *.pyc 
+ *.pyo 
+
+[*.pyc]
+  nothing = nothing
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# virtualenv
+venv/
+env/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+
+# Pyre type checker
+.pyre/
+
+# profiling data
+.prof/
+
+# profiling data from test explorations
+.profraw
+
+# Grappelli
+grappelli/
+
+# DB configurations
+db.sqlite3
+
+# Translation files
+*.mo
+
+# dotenv
+.env
