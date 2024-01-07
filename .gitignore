@@ -76,3 +76,5 @@ db.sqlite3
 
 # dotenv
 .env
+
+outputs
